@@ -3,7 +3,7 @@
 Este aplicativo simula un servidor web que puede recibir peticiones get y post, así como de algunos archivos como Html, Css, JavaScript, Imagenes.
 
 ## Diseño
-Los detalles del diseño, la arquitectura del programa, problema, definiciones y pruebas se pueden encontrar en el siguiente documento [Artículo Sobre el Diseño](AREP_LAB3_ArquitecturaServidor.pdf).
+Los detalles del diseño, la arquitectura del programa, problema, definiciones y pruebas se pueden encontrar en el siguiente documento [Artículo Sobre el Diseño](AREP_LAB3.pdf).
 
 ## Integración Continua
 [![CircleCI](https://circleci.com/gh/Nikolai9906/AREP-LAB-3.svg?style=svg)](https://circleci.com/gh/Nikolai9906/AREP-LAB-3)
