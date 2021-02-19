@@ -18,7 +18,7 @@ Entender sobre peticiones, servidores, sockets y demás, así como el lenguaje J
 ## Comandos
 Para compilar y correr las pruebas: ```mvn package```
 
-Para ejecutar y utilizar el programa: ```mvn exec:java -Dexec.mainClass="com.arep.App"```
+Para ejecutar y utilizar el programa: ```mvn exec:java -Dexec.mainClass="edu.escuelaing.arep.App"```
 
 Para ejecutar las pruebas: ```mvn test```
 
@@ -83,7 +83,7 @@ Para instalar maven seguimos los siguientes pasos:
 
    - **NOTA:** Recuerde que el proyecto se compila con el comando **mvn package**.
 4. Ejecute el aplicativo y verifique en su navegador web localmente escribiendo localhost:36000
-   mvn exec:java -Dexec.mainClass="edu.escuelaing.edu.arep.App
+   mvn exec:java -Dexec.mainClass="edu.escuelaing.arep.App
 
 ## Ejemplos de uso con maven
 Para ello nos dirigimos a la carpeta principal del proyecto, dependiendo de lo que queramos hacer.
