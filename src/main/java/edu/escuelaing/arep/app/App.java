@@ -31,7 +31,7 @@ public class App
             System.out.println("REQUEST POST ----------- \n" + body);
             if (body != null) {
                 servicesHttp.addAnimal(body);
-                res = "El animal con las caracter�sticas \n" + body + "\nHa sido a�adido correctamente";
+
             }
             return res;
         });
